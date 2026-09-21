@@ -1,4 +1,4 @@
--- University Course Management System (MySQL 8.0+)
+-- University Course Management System 
 
 DROP DATABASE IF EXISTS UniversityDB;
 CREATE DATABASE UniversityDB;
