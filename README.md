@@ -68,7 +68,7 @@ erDiagram
 
 ```
 ## video demo
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1mPUE70_Cb3owrwopoarjEoWyw2g9wBrK/view?usp=sharing)
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1cvRV4_0KffPbq6niHG_tP59P7f_3vWir/view?usp=sharing)
 
 ---
 ### 📖 Data Dictionary
