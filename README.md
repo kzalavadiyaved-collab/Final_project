@@ -1,17 +1,5 @@
-<div align="center">
-
 # 🎓 University Course Management System
 
-**A complete SQL database project — from schema design to advanced analytics**
-
-![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?logo=mysql&logoColor=white)
-![Tables](https://img.shields.io/badge/Tables-5-success)
-![Queries](https://img.shields.io/badge/Queries-16-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
-[Overview](#-overview) · [Schema](#-schema) · [Quick Start](#-quick-start) · [CRUD](#-crud-operations) · [Queries](#-queries) · [Sample Output](#-sample-output) · [Notes](#-notes--assumptions)
-
-</div>
 
 ---
 ## 📌 Overview
